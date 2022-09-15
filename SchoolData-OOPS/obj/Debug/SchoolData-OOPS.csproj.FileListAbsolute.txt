@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project - 3\SchoolData-OOPS\obj\Debug\SchoolData-OOPS.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project - 3\SchoolData-OOPS\obj\Debug\SchoolData-OOPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project - 3\SchoolData-OOPS\obj\Debug\SchoolData-OOPS.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project - 3\SchoolData-OOPS\bin\Debug\SchoolData-OOPS.exe.config
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project - 3\SchoolData-OOPS\bin\Debug\SchoolData-OOPS.exe
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project - 3\SchoolData-OOPS\bin\Debug\SchoolData-OOPS.pdb
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project - 3\SchoolData-OOPS\obj\Debug\SchoolData-OOPS.exe
+C:\Users\SHYAM SUNDER\Desktop\SL_projects\Practice projects\Project - 3\SchoolData-OOPS\obj\Debug\SchoolData-OOPS.pdb
